@@ -39,4 +39,5 @@
     
 
 ## DM傳單
-![image]()
+![image](https://deadlydog.gallerycdn.vsassets.io/extensions/deadlydog/waitbuildandreleasetask/1.2.31/1574358766086/Microsoft.VisualStudio.Services.Icons.Default)
+標題、參加成員、時間、地點、活動流程、經費、分工

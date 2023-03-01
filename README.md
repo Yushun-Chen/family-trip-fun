@@ -39,5 +39,20 @@
     
 
 ## DM傳單
+### 相關資訊
+1. 標題
+    - 九份滋味之旅
+    - 這個行程名稱暗示了遊客可以在旅程中體驗九份的獨特滋味，享受美食帶來的愉悅。
+2. 參加成員
+    - 
+3. 時間
+    - 
+4. 地點
+    - [九份老街](https://www.google.com.tw/maps/place/224%E6%96%B0%E5%8C%97%E5%B8%82%E7%91%9E%E8%8A%B3%E5%8D%80%E4%B9%9D%E4%BB%BD/@25.1087055,121.8411861,16z/data=!4m6!3m5!1s0x345d451805536779:0x29b83a838c953b84!8m2!3d25.109187!4d121.8462979!16zL20vMGJwdzgz?hl=zh-TW)
+    - 224新北市瑞芳區
+5. 活動流程
+6. 經費
+7. 分工
+### 傳單
 ![image](https://deadlydog.gallerycdn.vsassets.io/extensions/deadlydog/waitbuildandreleasetask/1.2.31/1574358766086/Microsoft.VisualStudio.Services.Icons.Default)
-標題、參加成員、時間、地點、活動流程、經費、分工
+

@@ -58,7 +58,8 @@
     - 一人700以內(交通費+餐費)
 7. 分工
     - 旅遊計畫: 我
-    - 
+    - 路線規劃: 我
+    - 意見提供: 妹妹
 ### 傳單
 ![image](https://deadlydog.gallerycdn.vsassets.io/extensions/deadlydog/waitbuildandreleasetask/1.2.31/1574358766086/Microsoft.VisualStudio.Services.Icons.Default)
 
